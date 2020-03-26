@@ -1,0 +1,25 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/isomer-logo.svg
+
+links:
+  - title: Contact Us
+    url: /contact-us/
+  - title: About Gst Voucher
+    url: /about-gst-voucher/
+  - title: Cash
+    url: /cash/
+  - title: Medisave
+    url: /medisave/
+  - title: U Save
+    url: /u-save/
+  - title: 2020 Budget Announcements
+    url: /2020-budget-announcements/
+  - title: Faq
+    collection: faq
+  - title: Media Releases
+    resource_room: true
