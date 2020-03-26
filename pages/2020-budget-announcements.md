@@ -15,8 +15,8 @@ permalink: /2020-budget-announcements/
     5-room|$280|+$280|+$140|**$560 or $700**
     Executive / Multi-Generation|$240|+$240|+$120|**$480 or $600**
     
-    ***Note:***
-    *As announced in Budget 2018, eligible households will receive an additional $20 per year from 2019 to 2021.* </dd>
+***Note:***
+*As announced in Budget 2018, eligible households will receive an additional $20 per year from 2019 to 2021.* </dd>
   <dd>
     For more information on the Household Support Package and the additional GST Voucher – U-Save, visit the [Singapore Budget website](https://www.singaporebudget.gov.sg/budget_2020 "Budget 2020"). </dd>
 </dl>
