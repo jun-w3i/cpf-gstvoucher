@@ -9,12 +9,12 @@ The regular GST Voucher – U-Save will be paid over four equal payments in **Ap
 The eligibility criteria for the GST Voucher – U-Save Special Payment is the same as the 2020 GST Voucher – U-Save. Households with five members or more, who receive the 2020 GST Voucher – U-Save and GST Voucher – U-Save Special Payment, will be eligible for the further GST Voucher U-Save rebate. Please refer to the table below for the amount that eligible households will receive.
 
 HDB Flat Type	| (A) Regular GSTV – U-Save | (B) GSTV – U-Save Special Payment for all eligible households | (C) Further GSTV – U-Save for larger households | (A)+(B)+(C) Total GSTV – U-Save for FY 2020 |
-|:---:|:---:|:---:|:---:|:---:|
-|1- and 2-room|$400|+$400|+$200|**$800 or $1,000**
-|3-room|$360|+$360|+$180|**$720 or $900**
-|4-room|$320|+$320|+$160|**$640 or $800**
-|5-room|$280|+$280|+$140|**$560 or $700**
-|Executive / Multi-Generation|$240|+$240|+$120|**$480 or $600**
+:---:|:---:|:---:|:---:|:---:|
+1- and 2-room|$400|+$400|+$200|**$800 or $1,000**
+3-room|$360|+$360|+$180|**$720 or $900**
+4-room|$320|+$320|+$160|**$640 or $800**
+5-room|$280|+$280|+$140|**$560 or $700**
+Executive / Multi-Generation|$240|+$240|+$120|**$480 or $600**
 
 ***Note:***
 *As announced in Budget 2018, eligible households will receive an additional $20 per year from 2019 to 2021.*
