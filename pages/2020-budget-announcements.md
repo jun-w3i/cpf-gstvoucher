@@ -15,4 +15,5 @@ HDB Flat Type	| (A) Regular GSTV – U-Save | (B) GSTV – U-Save Special Paymen
 
 ***Note:***
 *As announced in Budget 2018, eligible households will receive an additional $20 per year from 2019 to 2021.*
+
 For more information on the Household Support Package and the additional GST Voucher – U-Save, visit the [Singapore Budget website](https://www.singaporebudget.gov.sg/budget_2020 "Budget 2020").
