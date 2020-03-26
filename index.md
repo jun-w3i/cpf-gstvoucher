@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: Goods & Services Tax (GST) Voucher
-        subtitle: Providing support to Singaporean
+        subtitle: Providing support to Singaporeans
         background: /images/hero-banner.png
         button: Contact Us
         url: /contact-us/
@@ -25,15 +25,11 @@ sections:
     - infobar:
         title: GST Voucher eServices
         subtitle: Log in to
-        description: 
-        - View your GST Voucher eligibility
-        - Update your payment mode
-        - Update your SMS subscription
-        - Submit an enquiry
+        description: View your GST Voucher eligibility | Update your payment mode | Update your SMS subscription | Submit an enquiry
         button: Log in
         url: /faq/
     - resources:
-        title: Media
+        title: News
         subtitle: Learn more
         button: View More
 ---
